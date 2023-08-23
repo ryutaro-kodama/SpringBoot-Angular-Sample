@@ -34,3 +34,9 @@ build/
 
 ### Node and npm ###
 node/
+ng
+node_modules/
+npm
+package-lock.json
+package.json
+
