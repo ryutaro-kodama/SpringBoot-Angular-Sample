@@ -36,3 +36,5 @@ build/
 node/
 node_modules/
 
+/application.yml
+/application.properties
