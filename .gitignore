@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Node and npm ###
+node/
+node_modules/
+
+.angular
+/application.yml
+/application.properties
