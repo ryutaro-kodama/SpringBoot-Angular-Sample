@@ -36,5 +36,6 @@ build/
 node/
 node_modules/
 
+.angular
 /application.yml
 /application.properties
